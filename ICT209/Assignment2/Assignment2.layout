@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\Date.h" open="1" top="0" tabpos="8">
+		<Cursor position="902" topLine="22" />
+	</File>
+	<File name="include\binarySearchTree.h" open="1" top="0" tabpos="6">
+		<Cursor position="3479" topLine="90" />
+	</File>
+	<File name="include\binaryTree.h" open="1" top="0" tabpos="7">
+		<Cursor position="278" topLine="201" />
+	</File>
+	<File name="include\bookTree.h" open="1" top="0" tabpos="5">
+		<Cursor position="217" topLine="0" />
+	</File>
+	<File name="include\bookType.h" open="1" top="0" tabpos="3">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="include\memberType.h" open="0" top="0" tabpos="5">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="978" topLine="15" />
+	</File>
+	<File name="src\Date.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="497" topLine="13" />
+	</File>
+	<File name="src\bookTree.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="253" topLine="0" />
+	</File>
+	<File name="src\bookType.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="484" topLine="65" />
+	</File>
+	<File name="src\memberType.cpp" open="1" top="1" tabpos="10">
+		<Cursor position="301" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
